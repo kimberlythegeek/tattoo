@@ -1,0 +1,31 @@
+body {
+  background: black url("img/background.jpg") no-repeat left center; }
+
+.site-header {
+  margin-top: 10%; }
+
+.site-logo {
+  background: url("img/logo.png") no-repeat center;
+  background-size: contain;
+  height: 30rem; }
+
+.navigation {
+  margin-top: 4rem; }
+
+.navigation li {
+  padding: 2rem; }
+
+.navigation a {
+  color: white; }
+
+.navigation a:hover {
+  color: #888888; }
+
+.navigation {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 4rem; }
+
+.navigation a:hover {
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
